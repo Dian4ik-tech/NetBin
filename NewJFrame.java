@@ -135,14 +135,14 @@ Image img;
         int a_lidz =  Integer.parseInt(jTextField4.getText());
         int b_lidz = Integer.parseInt(jTextField3.getText());
         
-        int m = 10;
-        for(a_no;a_no<=a_lidz;a_no=a_no){
-            for(b_no;b_no<=b_lidz;b_no = b_no){
-                int c_real = a_no;
-                int a_vecais =a_no;
-                
-            }
-        }
+//        int m = 10;
+//        for(a_no;a_no<=a_lidz;a_no=a_no){
+//            for(b_no;b_no<=b_lidz;b_no = b_no){
+//                int c_real = a_no;
+//                int a_vecais =a_no;
+//                
+//            }
+//        }
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton1ActionPerformed
 
