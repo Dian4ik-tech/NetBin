@@ -141,7 +141,7 @@ Image img;
         double delta_a = (a_lidz-a_no)/width;
         double delta_b = (b_lidz-b_no)/height;
         
-        int m = 5;
+        int m = 10;
         Image img;
         int[] pixels = new int[(int)height*(int)width];
         
